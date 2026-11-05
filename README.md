@@ -4,12 +4,12 @@
 
 ### `~$ cat about.md`
 
-Hi, I'm **[Prénom]** 👋 Software engineering student at **42 [campus]**, based in **[ville]**.
+Hi, I'm **Tommi** 👋 Software engineering student at **42**, based in **Nice**.
 
 I like working close to the machine: memory, system calls, and what code actually does on the CPU. I'm especially drawn to **embedded systems** and **music / audio tech**, where low-level code meets sound.
 
 > [!NOTE]
-> **Looking for a work-study position (alternance)** in embedded or systems software, starting **[mois année]** · rhythm: **[ex. 3 weeks company / 1 week school]**
+> **Looking for a work-study position (alternance/internship)** in embedded or systems software**
 
 ### `~$ ls ~/stack`
 
