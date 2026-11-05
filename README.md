@@ -23,8 +23,8 @@ I like working close to the machine: memory, system calls, and what code actuall
 
 ### `~$ ping me`
 
-<a href="https://www.linkedin.com/in/[ton-profil]"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
+<a href="https://fr.linkedin.com/in/tommi-picoulet-2571a7405"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
 &nbsp;
-<a href="mailto:[ton-email]"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"></a>
+<a href="mailto:tpicoule123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"></a>
 
 <img src="footer.svg" width="100%" alt="Audio waveform with a moving playhead">
