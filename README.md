@@ -11,7 +11,7 @@ I like working close to the machine: memory, system calls, and what code actuall
 > **Looking for a work-study position (alternance) or an internship** in embedded or systems software.
 
 <p>
-  <a href="CV_Picoulet_standard_EN.pdf"><img src="https://img.shields.io/badge/Resume-English-58a6ff?style=for-the-badge" alt="Resume in English"></a>
+  <a href="CV_Picoulet_EN.pdf"><img src="https://img.shields.io/badge/Resume-English-58a6ff?style=for-the-badge" alt="Resume in English"></a>
   <a href="CV_Picoulet_standard_FR.pdf"><img src="https://img.shields.io/badge/CV-Fran%C3%A7ais-a371f7?style=for-the-badge" alt="CV en français"></a>
 </p>
 
